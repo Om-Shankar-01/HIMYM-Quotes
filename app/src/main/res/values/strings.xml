@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">HIMYM Moments</string>
+
+    <string name="heading_title">HIMYM Moments</string>
+
+<!--Title Items-->
+    <string name="title_1">Legen — wait for it…</string>
+    <string name="title_2">Odds of Love</string>
+    <string name="title_3">After 2 a.m.</string>
+    <string name="title_4">Mistakes</string>
+    <string name="title_5">Be awesome!</string>
+    <string name="title_6">Awesome cold</string>
+    <string name="title_7">Understanding Barney</string>
+    <string name="title_8">Steal an Orchestra?</string>
+    <string name="title_9">Great Moments</string>
+    <string name="title_10">As fast as she can</string>
+    <string name="title_11">Designing Life</string>
+    <string name="title_12">If not scared…</string>
+    <string name="title_13">Lies</string>
+    <string name="title_14">Stupid decisions</string>
+    <string name="title_15">Baggage</string>
+    <string name="title_16">Five Doppelgangers</string>
+    <string name="title_17">Signs of the Universe</string>
+    <string name="title_18">Gym?</string>
+
+<!--Description items-->
+    <string name="desc_1">It\'s going to be legen — wait for it — and I hope you\'re not lactose intolerant, because the second half of the word is — dary! Legendary!</string>
+    <string name="desc_2">
+        Look, I know the odds are the love of my life isn\'t going to magically
+        walk through that door in a pumpkin costume at 2:43 in the morning.
+        But it just seems as nice a spot as any to just, you know, sit and wait.
+    </string>
+    <string name="desc_3">
+        When it\'s after 2 a.m. just go to sleep. Because the decisions you make after 2:00 a.m.
+        are the wrong decisions.</string>
+    <string name="desc_4">
+        I know it\'s a mistake, but there are certain things in life where you know it\'s a mistake,
+        but you don’t really know it\'s a mistake, because the only way to really know it\'s a mistake
+        is to make the mistake, and look back and say, \'Yep, that was a mistake.\' So, really, the
+        bigger mistake would be to not make the mistake because then you\'d go your whole life not
+        really knowing if something is a mistake or not.
+    </string>
+    <string name="desc_5">When I get sad, I stop being sad and be awesome instead. True story.</string>
+    <string name="desc_6">
+        I\'m not sick. My nose is just overflowing with awesome and I had to get
+        some of it out.
+    </string>
+    <string name="desc_7">
+        When times are hard, it\'s impossible to keep him around. But when times are good, it\'s
+        impossible to get rid of him.
+    </string>
+    <string name="desc_8">\'You stole a blue French Horn for me.\' \'I would have stolen you a whole orchestra.\'</string>
+    <string name="desc_9">
+        The great moments of your life won\'t necessarily be the things you do. They\'ll also be the things that happen to you. I\'m not saying you can\'t take action to
+        affect the outcome of your life. You have to take action, and you will. But never forget that,
+        on any day, you could step out the front door and your whole life can change forever.
+        You see, the universe has a plan, kids, and that plan is always in motion. A butterfly flaps
+        its wings and it starts to rain. It\'s a scary thought. But it\'s also kind of wonderful. All
+        these little parts of the machine constantly working, making sure that you end up exactly
+        where you\'re supposed to be, exactly when you\'re supposed to be there. The right place at
+        the right time.
+    </string>
+    <string name="desc_10">
+        I know that you are tired of waiting, and you may have to wait a little while more, but
+        she\'s on her way, Ted. And she\'s getting here as fast as she can.
+    </string>
+    <string name="desc_11">Look, you can\'t design your life like a building. It doesn\'t work that
+        way. You just have to live it, and it will design itself. Listen to what the world is
+        telling you to do and take the leap.
+    </string>
+    <string name="desc_12">If you\'re not scared, then you\'re not taking a chance. If you\'re not
+        taking a chance, then what the hell are you doing anyway?
+    </string>
+    <string name="desc_13">A lie is a great story that someone ruined with the truth.</string>
+    <string name="desc_14">That\'s the thing about stupid decisions. We all make them.
+        But time is funny. And sometimes a little magical. It can take a stupid decision and
+        turn it into something else entirely.
+    </string>
+    <string name="desc_15">You see, everyone\'s got some baggage. It\'s part of life.
+        But like anything else, it\'s easier when someone gives you a hand with.
+    </string>
+    <string name="desc_16">Look, we\'ve been all searching for the five doppelgangers, right?
+        But eventually, over time, we all become our own doppelgangers. You know, these completely
+        different people who just happen to look like us.
+    </string>
+    <string name="desc_17">You can ask the universe for signs all you want, but ultimately we’ll
+        only see what we want to see… when we\'re ready to see it.
+    </string>
+    <string name="desc_18">I wound up shame-eating the whole pizza. I woke up all greasy and sweaty.
+        My sheets looked like what they wrap deli sandwiches in. Maybe I should join a gym.
+        Do you go to a gym?</string>
+
+
+<!--Author names-->
+    <string name="auth_1">~ Barney, S1 E03</string>
+    <string name="auth_2">~ Ted, S1 E06</string>
+    <string name="auth_3">~ Ted, S1 E18</string>
+    <string name="auth_4">~ Lily, S1 E21</string>
+    <string name="auth_5">~ Barney, S2 E01</string>
+    <string name="auth_6">~ Barney, S2 E11</string>
+    <string name="auth_7">~ Ted, S2 E19</string>
+    <string name="auth_8">~ Robin and Ted, S2 E22</string>
+    <string name="auth_9">~ Ted, S4 E22</string>
+    <string name="auth_10">~ Stella, S4 E23</string>
+    <string name="auth_11">~ Lily, S4 E24</string>
+    <string name="auth_12">~ Ted, S5 E10</string>
+    <string name="auth_13">~ Barney, S5 E19</string>
+    <string name="auth_14">~ Ted, S5 E20</string>
+    <string name="auth_15">~ Ted, S5 E23</string>
+    <string name="auth_16">~ Ted, S5 E24</string>
+    <string name="auth_17">~ Ted, S5 E24</string>
+    <string name="auth_18">~ Ted, S3 E10</string>
+</resources>
